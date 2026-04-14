@@ -1,9 +1,5 @@
-<h1>Hi I'm Farhan Siddiqui</h1>
-
-<p>
-Frontend Developer <br>
-Currently learning JavaScript <br>
-Building web projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:203a43&height=140&section=header&text=Farhan%20Siddiqui&fontSize=28&fontColor=ffffff&animation=twinkling&y=28&desc=Frontend%20Developer%20|%20Tech%20Enthusiast&descSize=13&descAlignY=68"/>
 </p>
 
 ##  Tech Stack
@@ -17,11 +13,6 @@ Building web projects
 <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
-## Connect With Me
-<p>
-LinkedIn: https://linkedin.com/in/farhan-siddiqui-dev
 </p>
 
 ## 📄 Resume
@@ -57,4 +48,25 @@ LinkedIn: https://linkedin.com/in/farhan-siddiqui-dev
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Learning+JavaScript;Building+Web+Projects&center=true&width=500" />
+</p>
+
+## Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/farhan-siddiqui-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:fsid738@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/aryan16927">
+  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fsid908">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>

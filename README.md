@@ -25,7 +25,7 @@ LinkedIn: https://linkedin.com/in/farhan-siddiqui-dev
 </p>
 
 ## 📄 Resume
-<a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1sGfFUMxDP7h42affNBWh2LnCCCZlX1Xr/view?usp=drivesdk)">
+<a href="https://drive.google.com/file/d/1sGfFUMxDP7h42affNBWh2LnCCCZlX1Xr/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=readme"/>
 </a>
 
